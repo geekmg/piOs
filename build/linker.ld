@@ -40,3 +40,4 @@ SECTIONS
     __bss_end = .;
     __end = .;
 }
+
