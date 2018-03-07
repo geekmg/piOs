@@ -6,6 +6,8 @@
 
 3. [0x02 - Organiser notre projet](https://geek.mg/fr/tutoriel/0x02-organiser-notre-projet/)
 
+4. [0x03 - La mémoire ](https://geek.mg/fr/tutoriel/0x03-la-memoire/)
+
 
 
 
